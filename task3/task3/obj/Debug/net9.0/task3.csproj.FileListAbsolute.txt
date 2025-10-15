@@ -1,0 +1,14 @@
+/Users/asifhajizade/Desktop/BPA202/Current/16.10.25/task3/task3/bin/Debug/net9.0/task3
+/Users/asifhajizade/Desktop/BPA202/Current/16.10.25/task3/task3/bin/Debug/net9.0/task3.deps.json
+/Users/asifhajizade/Desktop/BPA202/Current/16.10.25/task3/task3/bin/Debug/net9.0/task3.runtimeconfig.json
+/Users/asifhajizade/Desktop/BPA202/Current/16.10.25/task3/task3/bin/Debug/net9.0/task3.dll
+/Users/asifhajizade/Desktop/BPA202/Current/16.10.25/task3/task3/bin/Debug/net9.0/task3.pdb
+/Users/asifhajizade/Desktop/BPA202/Current/16.10.25/task3/task3/obj/Debug/net9.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asifhajizade/Desktop/BPA202/Current/16.10.25/task3/task3/obj/Debug/net9.0/task3.AssemblyInfoInputs.cache
+/Users/asifhajizade/Desktop/BPA202/Current/16.10.25/task3/task3/obj/Debug/net9.0/task3.AssemblyInfo.cs
+/Users/asifhajizade/Desktop/BPA202/Current/16.10.25/task3/task3/obj/Debug/net9.0/task3.csproj.CoreCompileInputs.cache
+/Users/asifhajizade/Desktop/BPA202/Current/16.10.25/task3/task3/obj/Debug/net9.0/task3.dll
+/Users/asifhajizade/Desktop/BPA202/Current/16.10.25/task3/task3/obj/Debug/net9.0/refint/task3.dll
+/Users/asifhajizade/Desktop/BPA202/Current/16.10.25/task3/task3/obj/Debug/net9.0/task3.pdb
+/Users/asifhajizade/Desktop/BPA202/Current/16.10.25/task3/task3/obj/Debug/net9.0/task3.genruntimeconfig.cache
+/Users/asifhajizade/Desktop/BPA202/Current/16.10.25/task3/task3/obj/Debug/net9.0/ref/task3.dll
